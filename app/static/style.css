@@ -19,6 +19,20 @@ body {
     margin-bottom: 1em;
     color: #d41919;
 }
+.bottom {
+    margin: auto;
+    padding: 10px 50px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.title {
+    font-size: 30px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    color: #d41919;
+}
+
 
 .content {
     margin-top: 10em;
